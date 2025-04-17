@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+CHANGELOG.md export-ignore
+README.md export-ignore
+D:/School/Back-end[[:space:]]project/goed-grond[[:space:]](3).zip filter=lfs diff=lfs merge=lfs -text
+app.zip filter=lfs diff=lfs merge=lfs -text
